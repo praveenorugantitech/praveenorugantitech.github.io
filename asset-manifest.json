@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5c26e35.chunk.css",
+    "main.js": "/static/js/main.67723182.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.db7cdd15.js",
+    "static/css/2.2357d3f5.chunk.css": "/static/css/2.2357d3f5.chunk.css",
+    "static/js/2.b5c1d3a1.chunk.js": "/static/js/2.b5c1d3a1.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.b5c1d3a1.chunk.js.LICENSE.txt": "/static/js/2.b5c1d3a1.chunk.js.LICENSE.txt",
+    "static/media/collections.b8cbfb1f.png": "/static/media/collections.b8cbfb1f.png",
+    "static/media/App.css": "/static/media/defaultBcg.7db23f30.jpg",
+    "static/media/css.cf1d093c.png": "/static/media/css.cf1d093c.png",
+    "static/media/designpatterns.40b7a527.jpg": "/static/media/designpatterns.40b7a527.jpg",
+    "static/media/dsalg.0735e929.png": "/static/media/dsalg.0735e929.png",
+    "static/media/exc.ca035a95.png": "/static/media/exc.ca035a95.png",
+    "static/media/expressjs.eb984af4.jpg": "/static/media/expressjs.eb984af4.jpg",
+    "static/media/html5css.983421d2.png": "/static/media/html5css.983421d2.png",
+    "static/media/java.5e34f23e.png": "/static/media/java.5e34f23e.png",
+    "static/media/java8.a0dc3ed3.png": "/static/media/java8.a0dc3ed3.png",
+    "static/media/jpa.80f33eb8.png": "/static/media/jpa.80f33eb8.png",
+    "static/media/js.75220e22.png": "/static/media/js.75220e22.png",
+    "static/media/loading-arrow.dd29210f.gif": "/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.de9b734c.PNG": "/static/media/logo.de9b734c.PNG",
+    "static/media/microservices.fa646141.png": "/static/media/microservices.fa646141.png",
+    "static/media/multithreading.c20b137e.png": "/static/media/multithreading.c20b137e.png",
+    "static/media/oops.b1cb1dfd.jpg": "/static/media/oops.b1cb1dfd.jpg",
+    "static/media/servlets.6f0bb587.png": "/static/media/servlets.6f0bb587.png",
+    "static/media/spring.af661131.png": "/static/media/spring.af661131.png",
+    "static/media/struts2.a4a0a282.jpeg": "/static/media/struts2.a4a0a282.jpeg",
+    "static/media/webservice.94d8937a.jpg": "/static/media/webservice.94d8937a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db7cdd15.js",
+    "static/css/2.2357d3f5.chunk.css",
+    "static/js/2.b5c1d3a1.chunk.js",
+    "static/css/main.d5c26e35.chunk.css",
+    "static/js/main.67723182.chunk.js"
+  ]
+}
