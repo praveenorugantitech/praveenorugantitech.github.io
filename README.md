@@ -1,1 +1,0 @@
-# praveenorugantitech.github.io
